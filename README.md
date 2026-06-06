@@ -13,6 +13,13 @@ Extração e tratamento de dados do banco Adventure Works via SQL Server, com cr
 
 ---
 
+### 🐍 [Python + SQL Server Integration](./python-sql-integration/)
+Integração entre Python e SQL Server via Jupyter Notebook — inserção de dados no banco via pyodbc e leitura, tratamento e visualização com pandas e matplotlib.
+
+**Ferramentas:** Python · Jupyter Notebook · SQL Server · pyodbc · pandas · matplotlib
+
+---
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/wendel-santos-analista) · [GitHub](https://github.com/wendel-santos)
